@@ -1,0 +1,21 @@
+.banner {
+    background-color: aquamarine;
+    color: black;
+    margin-top: 50px;
+    text-align: center;
+    padding: 50px 0px;
+}
+#s_kirito {
+    height: 300px;
+    width: 600px;
+}
+
+#kirito {
+    color: blue;
+    font-size: 100px;
+
+}
+
+.bold {
+    font-weight: 900;
+}
